@@ -117,7 +117,7 @@ h2 {
     .about_icon img {
         display: block;
         margin: 0 auto;
-        width: 80%;
+        width: 90%;
     }
 }
 
@@ -171,15 +171,6 @@ h2 {
         height: auto;
         margin: 5px auto;
         min-width: 150px;
-    }
-}
-
-@media screen and (max-width:1000px) {
-    .skills_details li{
-        display: block;
-        width: 15%;
-        height: auto;
-        margin: 5px auto;
     }
 }
 
