@@ -196,6 +196,8 @@ h2 {
 .ending {
     padding-top: 15px;
     font-size: 2rem;
+    text-decoration: none;
+    color: #111111;
 }
 .ending_container div {
     display: block;
@@ -205,11 +207,6 @@ h2 {
 .ending img {
     width: 5%;
     min-width: 50px;
-}
-
-#github_link {
-    text-decoration: none;
-    color: #111111;
 }
 
 #icon {
