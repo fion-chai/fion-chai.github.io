@@ -113,6 +113,14 @@ h2 {
     }
 }
 
+@media screen and (max-width:500px) {
+    .about_icon img {
+        display: block;
+        margin: 0 auto;
+        width: 70%;
+    }
+}
+
 /*skills*/
 .skills_details {
     list-style: none;
