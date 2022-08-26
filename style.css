@@ -194,6 +194,10 @@ h2 {
 }
 
 /*contact-section*/
+.ending {
+    padding-top: 15px;
+    font-size: 2rem;
+}
 .ending_container div {
     display: block;
     text-align: center;
