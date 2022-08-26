@@ -198,6 +198,7 @@ h2 {
     font-size: 2rem;
     text-decoration: none;
     color: #111111;
+    padding-bottom: 80px;
 }
 .ending_container div {
     display: block;
@@ -211,6 +212,16 @@ h2 {
 
 #icon {
     display: block;
+}
+
+#github_link {
+    color:#111111;
+    text-decoration: none;
+}
+
+#phone_no {
+    color:#111111;
+    text-decoration: none;
 }
 
 footer {
